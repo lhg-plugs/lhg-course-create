@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"课程制作专家：四段式大纲→口语化讲义→三档习题→试听课脚本，一致性自动审计","name":"lhg-course-create","source":"./"}]}
